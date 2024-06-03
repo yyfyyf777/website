@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d228fd9"],{dc15:function(t,c,n){"use strict";n.r(c);var s=function(){var t=this;t._self._c;return t._m(0)},e=[function(){var t=this,c=t._self._c;return c("div",{staticClass:"about"},[c("img",{staticStyle:{height:"290px"},attrs:{src:"https://fei-13559909623-1325772027.cos.ap-guangzhou.myqcloud.com/zhuanye-qiye.png"}})])}],u={},a=u,i=n("2877"),o=Object(i["a"])(a,s,e,!1,null,"2bc49ef2",null);c["default"]=o.exports}}]);
-//# sourceMappingURL=chunk-2d228fd9.50862bc0.js.map
+//# sourceMappingURL=chunk-2d228fd9.30d29151.js.map
